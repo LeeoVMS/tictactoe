@@ -47,6 +47,8 @@ The AI explores the full game tree and chooses the optimal move based on utility
 
 0 for a draw
 
+Follow the video to see the full explanation: [Link](https://drive.google.com/drive/u/1/folders/1UMqRA98Dl4f6ARwyJhIIR2Y82Mcem2KV)
+
 ## Author
 Developed by Leonardo Vianna
 Feel free to reach out or contribute!
