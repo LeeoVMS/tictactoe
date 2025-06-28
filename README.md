@@ -23,6 +23,10 @@ The visual interface is built using **Pygame**, and the logic behind the AI is c
 
 ```
 pip install pygame
+```
+2. **Run the game**
+
+```
 python runner.py
 ```
 
